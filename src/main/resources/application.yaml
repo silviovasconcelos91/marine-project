@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: kaibee
+    password: kaibee
+    url: jdbc:postgresql://localhost:5432/kaibee
+server:
+  port: 8081
